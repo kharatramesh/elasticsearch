@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 def main():
-  # echo output
+  # eecho output
   for i in range(100):
       print("XXX" * i)
       print(i)
