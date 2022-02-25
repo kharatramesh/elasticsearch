@@ -7,4 +7,4 @@ def main():
       print ("XXX" * i)
 if __name__ == '__main__':
   main()
-echo "program ends"
+
