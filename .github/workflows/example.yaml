@@ -1,6 +1,6 @@
 name: Example workflow
 on:
-  workflow_dispatch:
+  workflow_dispatch
 jobs:
   run-demo-app:
     runs-on: ubuntu-latest
