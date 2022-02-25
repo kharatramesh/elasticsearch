@@ -15,4 +15,6 @@ jobs:
       with:
         python-version: '3.7.8'
     - name: Run script that echo outputs
-      run: python main.py
+      run: |
+        chmod a+x main.py
+        python main.py
