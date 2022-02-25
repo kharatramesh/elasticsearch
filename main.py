@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 def main():
   # eecho output
   for i in range(100):
